@@ -16,10 +16,22 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-# 📊 Stats
+# ✨ Hobbies
 
-![](https://github-readme-stats.vercel.app/api?username=s-jez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=s-jez&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-jez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📷 Film editing - Adobe Premier Pro
+- 🎴 Graphics - Adobe Photoshop <br />
+- 🏓 Table tennis
+- 🏊‍♂️ Swimming
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💼 Achievments
+
+- I won a competition "Razem do zawodu" in the sectors of Tourism, sport and recreation and Food industry - getting a scholarship.
+- I received the Prime Minister's scholarship.
+- I edited the competition videos and school promotional videos.
+
+###  I made it possible for the children to build monuments of my city. I put the server on the Google Cloud machine. I edited many videos and graphics.
+
+Below is the work from the competition.
+
+![](https://i.imgur.com/nPQHjUk.jpeg)
+
