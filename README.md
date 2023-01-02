@@ -29,9 +29,3 @@
 - I received the Prime Minister's scholarship.
 - I edited the competition videos and school promotional videos.
 
-###  I made it possible for the children to build monuments of my city. I put the server on the Google Cloud machine. I edited many videos and graphics.
-
-Below is the work from the competition.
-
-![](https://i.imgur.com/nPQHjUk.jpeg)
-
