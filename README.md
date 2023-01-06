@@ -1,6 +1,7 @@
 # 🎉 Hello there! About me
 
-💻 Portfolio website: https://sjez.codes (made in Astro template)
+💻 Portfolio website: <a href="https://sjez.codes" target="_blank">sjez.codes</a>
+ (made in Astro template)
 
 👨‍🎓 I'm Stanisław, 19 years old passionate student, who learns Web Development. <br />
 
