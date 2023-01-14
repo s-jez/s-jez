@@ -5,11 +5,11 @@
 
 👨‍🎓 I'm Stanisław, 19 years old passionate student, who learns Web Development. <br />
 
-🎇 My goal is to work as a full-time Programmer. <br />
+🎇 My goal is to work as a full-stack programmer .NET and React.js. <br />
 
-🎊 Now, I'm learning Front-end technologies - HTML, CSS, SASS, JavaScript, TypeScript, React.JS
+🎊 Now, I'm learning Front-end technologies - HTML, CSS/SASS, JavaScript/TypeScript, React.js
 
-🎆 At school, I was learning C# language, OOP, WinForms, WPF Applications, Xamarin and database basics. <br />
+🎆 At school, I was learning C# language, OOP, WinForms, WPF Applications, Xamarin and databases MySQL. <br />
 
 🎮 I was trying to make simple games in Unity engine, because I know well a C# language.
 
