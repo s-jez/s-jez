@@ -1,19 +1,13 @@
-# 🎉 Hello there! About me
+# 📜 About me
 
-💻 Portfolio website: <a href="https://sjez.codes" target="_blank">sjez.codes</a>
- (made in Astro template)
+ 💻 I'm Stanisław, 19 years old passionate student, who learns Web Development Front-end / Back-end. <br />
+  Portfolio website: <a href="https://sjez.codes" target="_blank">sjez.codes</a>
+  (made in Astro template). <br /> <br />
+ 🎇 My goal is to work as a full-stack programmer ASP.NET and React.js Developer. <br />
+  Now, I'm learning Front-end technologies - HTML, CSS/SASS, JavaScript/TypeScript and React.js libary.
 
-👨‍🎓 I'm Stanisław, 19 years old passionate student, who learns Web Development. <br />
-
-🎇 My goal is to work as a full-stack programmer .NET and React.js. <br />
-
-🎊 Now, I'm learning Front-end technologies - HTML, CSS/SASS, JavaScript/TypeScript, React.js
-
-🎆 At school, I was learning C# language, OOP, WinForms, WPF Applications, Xamarin and databases MySQL. <br />
-
-🎮 I was trying to make simple games in Unity engine, because I know well a C# language.
-
-🎯 I would like to create cool websites!
+ 🎆 At school, I was learning C# language, OOP, WinForms, WPF Applications, Xamarin and databases SQL, MySQL, phpMyAdmin. <br />
+   I was trying to make simple games in Unity engine, because I know well a C# language. I created the game while participating in a Create With Code Unity Game Jam. <br />
 
 # 💻 Technologies
 
