@@ -1,13 +1,13 @@
 # 📜 About me
 
- 💻 I'm Stanisław, 19 years old passionate student, who learns Web Development Front-end / Back-end. <br />
+ 💻 I'm Stanisław, 19 years old passionate student, who learns Web Development. <br />
   Portfolio website: <a href="https://sjez.codes" target="_blank">sjez.codes</a>
   (made in Astro template). <br /> <br />
- 🎇 My goal is to work as a full-stack programmer ASP.NET and React.js Developer. <br />
-  Now, I'm learning Front-end technologies - HTML, CSS/SASS, JavaScript/TypeScript and React.js libary.
+ 🎇 My goal is to work as a full-stack programmer React.JS + .NET <br />
+  Now, I'm learning Front-end technologies - HTML, CSS / SASS, JavaScript / TypeScript and React.js libary.
 
- 🎆 At school, I was learning C# language, OOP, WinForms, WPF Applications, Xamarin and databases SQL, MySQL, phpMyAdmin. <br />
-   I was trying to make simple games in Unity engine, because I know well a C# language. I created the game while participating in a Create With Code Unity Game Jam. <br />
+  🎆 At school, I was learning .NET C#, OOP programming, WPF applications / WinForms, Xamarin and databases SQL, MySQL, phpMyAdmin. <br />
+   I was trying to make simple games in Unity engine, because I know well .NET technologies. I created the Ballmagedon game while participating in a Create With Code Unity Game Jam. <br />
 
 # 💻 Technologies
 
