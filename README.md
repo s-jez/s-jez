@@ -4,10 +4,10 @@
   Portfolio website: <a href="https://sjez.codes" target="_blank">sjez.codes</a>
   (made in Astro template). <br /> <br />
  🎇 My goal is to work as a full-stack programmer React.JS + .NET <br />
-   I'm learning Front-end technologies - HTML, CSS / SASS, JavaScript / TypeScript and React.js libary <br />
-   and for Back-end technology .NET Web API to create simple Web Service, who can communicate with application in React.
+   I'm learning front-end technologies - HTML, CSS/SASS , JavaScript/TypeScript and React.js libary <br />
+   and for Back-end technology .NET Web API to create simple Web Service, who can communicate with application in React.js.
 
-  🎆 At school, I was learning .NET C#, OOP programming, WPF applications / WinForms, Xamarin and databases SQL, MySQL, phpMyAdmin. <br />
+  🎆 At school, I was learning .NET C#, OOP programming, WPF applications / WinForms, Xamarin and relational SQL databases, MySQL, phpMyAdmin. <br />
   
   🎮 I was trying to make simple games in Unity engine, because I know well .NET technologies. I created the Ballmagedon game while participating in a Create With Code Unity Game Jam. <br />
 
