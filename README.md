@@ -1,7 +1,6 @@
 # 📜 About me
 
- 💻 I'm Stanisław, 19 years old passionate student, who learns Web Development. <br />
-  Portfolio website: <a href="https://sjez.codes" target="_blank">sjez.codes</a>
+ 💻 I'm Stanisław, passionate student, who learns Web Development. <br />
   (made in Astro template). <br /> <br />
    I'm learning front-end technologies - HTML, CSS, SASS , JavaScript/TypeScript and React.js <br />
 
@@ -15,8 +14,6 @@
 
 # ✨ Hobbies
 
-- 📷 Film editing - Adobe Premier Pro
-- 🎴 Graphics - Adobe Photoshop <br />
 - 🏓 Table tennis
 - 🏊‍♂️ Swimming
 
