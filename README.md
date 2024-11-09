@@ -3,16 +3,16 @@
  Front-end Developer, passionate student, who learns Web Development. <br />
 
 # 💻 Technologies
-- HTML & CSS, Tailwind CSS
+- HTML & CSS, Tailwind CSS, Styled components
 - Javascript, Typescript
 - React.js and libraries
-- API, Firebase database
+- Firebase
 
 # ✨ Hobbies
 
 - Table tennis
 - Swimming
--  Basketball
+- Basketball
 
 # 💼  Achievments
 
