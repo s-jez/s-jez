@@ -3,9 +3,9 @@
  Front-end Developer, passionate student, who learns Web Development. <br />
 
 # 💻 Technologies
-- HTML & CSS, Tailwind CSS, Styled components
-- Javascript, Typescript
-- React.js and libraries
+- HTML & CSS, Tailwind, Styled Components, MUI
+- Javascript, TypeScript
+- React.js, Redux Toolkit, RTK Query
 - Firebase
 
 # ✨ Hobbies
