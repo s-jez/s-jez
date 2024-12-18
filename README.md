@@ -1,11 +1,13 @@
 # 📜 About me
 
- Front-end Developer, passionate student, who learns Web Development. <br />
+ Front-end Developer, passionate Computer Science student<br />
 
 # 💻 Technologies
-- HTML & CSS, Tailwind, Styled Components, MUI
+- HTML & CSS, SCSS, Tailwind, Styled Components, Material UI
 - Javascript, TypeScript
 - React.js, Redux Toolkit, RTK Query
+- Twig, Drupal CMS
+- Vitest
 - Firebase
 
 # ✨ Hobbies
