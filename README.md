@@ -3,7 +3,7 @@
  Front-end Developer, passionate Computer Science student<br />
 
 # 💻 Technologies
-- HTML & CSS, SCSS, Tailwind, Styled Components, Material UI
+- HTML & CSS, SCSS, TailwindCSS, Styled Components, Material UI
 - Javascript, TypeScript
 - React.js, Redux Toolkit, RTK Query
 - Twig, Drupal CMS
