@@ -6,8 +6,9 @@
 - HTML & CSS, SCSS, TailwindCSS, Styled Components, Material UI
 - Javascript, TypeScript
 - React.js, Redux Toolkit, RTK Query
+- Vue.js, Vue router
 - Twig, Drupal CMS
-- Vitest
+- Jest, Vitest
 - Firebase
 
 # ✨ Hobbies
