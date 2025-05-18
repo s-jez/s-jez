@@ -1,12 +1,12 @@
 # 📜 About me
 
- Front-end Developer, passionate Computer Science student<br />
+ Front-end Developer & Computer Science student<br />
 
 # 💻 Technologies
 - HTML & CSS, SCSS, TailwindCSS, Styled Components, Material UI
-- Javascript, TypeScript
-- React.js, Redux Toolkit, RTK Query
-- Vue.js, Vue router
+- JavaScript, TypeScript
+- React.js, Redux Toolkit, RTK Query, Zustand
+- Vue.js 3
 - Twig, Drupal CMS
 - Jest, Vitest
 - Firebase
